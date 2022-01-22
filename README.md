@@ -1,8 +1,20 @@
 # Medical-Assistance-Android-App
 The aim of the project is to build an intelligent appointment booking system which gives any user a simple means of booking an appointment online and provide solution to easy access and sharing of medical records with doctor, which can enhance treatment given to the patient based on medical history.
 
+<table>
+  <tr>
+    <td>Splash Image</td>
+    <td>Signup page</td>
+    <td>Patient Registration Page</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/66821281/128492630-8d4e486d-1cdb-4f7f-9956-a78788bfb142.png" width="300"></td>
+    <td>![signup_page](https://user-images.githubusercontent.com/58900339/150641423-eca904f4-af68-4035-b905-dba8bd4e2d05.PNG)</td>
+    <td>![registration](https://user-images.githubusercontent.com/58900339/150641002-ceeabf39-eb22-4d85-9881-df73f2ee3039.PNG)</td>
+  </tr>
+</table>
 
-<img src="https://user-images.githubusercontent.com/66821281/128492630-8d4e486d-1cdb-4f7f-9956-a78788bfb142.png" width="300">     ![registration](https://user-images.githubusercontent.com/58900339/150641002-ceeabf39-eb22-4d85-9881-df73f2ee3039.PNG)
+
 
 
 This is the Signup or login page where the doctors can login with their credentials and the patients can register and login.
