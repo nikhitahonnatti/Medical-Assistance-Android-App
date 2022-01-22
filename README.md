@@ -9,7 +9,7 @@ The aim of the project is to build an intelligent appointment booking system whi
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/66821281/128492630-8d4e486d-1cdb-4f7f-9956-a78788bfb142.png" width="300"></td>
-    <td>!<img src="[signup_page](https://user-images.githubusercontent.com/58900339/150641539-bab179d8-4122-4fce-aed5-3f61897dad40.PNG)"</td>
+    <td>!<img src="https://user-images.githubusercontent.com/58900339/150641539-bab179d8-4122-4fce-aed5-3f61897dad40.PNG width="300"></td>
     <td>![registration](https://user-images.githubusercontent.com/58900339/150641002-ceeabf39-eb22-4d85-9881-df73f2ee3039.PNG)</td>
   </tr>
 </table>
