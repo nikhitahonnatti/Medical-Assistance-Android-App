@@ -8,12 +8,13 @@ The aim of the project is to build an intelligent appointment booking system whi
     <td>Patient Registration Page</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/66821281/128492630-8d4e486d-1cdb-4f7f-9956-a78788bfb142.png" width="300"></td>     
+    <td><img src="https://user-images.githubusercontent.com/58900339/150642048-8f4e6634-2f40-41f9-9a54-ab753b7622ac.PNG" width="300"></td>     
     <td><img src="https://user-images.githubusercontent.com/58900339/150641793-4ae754b0-c254-41d9-9736-fd4962317867.PNG" width="300"></td>
     <td><img src="https://user-images.githubusercontent.com/58900339/150641946-cffeec14-6af1-4476-8f27-eb21e3401086.PNG" width="300"></td>
   </tr>
 </table>
   
+
 
 
 
