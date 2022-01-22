@@ -19,9 +19,7 @@ The aim of the project is to build an intelligent appointment booking system whi
 
 
 
-This is the Signup or login page where the doctors can login with their credentials and the patients can register and login.
-
-
+This is the Splash image, Signup page where the doctors can login with their credentials and Patient registration page where the patients can register and login.
 
 
 <img src="https://user-images.githubusercontent.com/66821281/128492754-6eb952e4-e261-4960-aa7f-cd363ff3ffc7.png" width="300">
