@@ -25,13 +25,11 @@ This is the Splash image, Signup page where the doctors can login with their cre
     <td>Doctor Dashboard</td>
     <td>View Appointments</td>
     <td>Provide Prescription and Comments</td>
-    <td>View Patient Symptoms</td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/66821281/128492754-6eb952e4-e261-4960-aa7f-cd363ff3ffc7.png" width="300"></td>     
     <td><img src="https://user-images.githubusercontent.com/58900339/150642475-ded19929-d430-48b5-8a0f-22be4a83881b.png" width="300"></td>
     <td><img src="https://user-images.githubusercontent.com/58900339/150642534-ba967cb7-8849-4784-81bd-4e8c6399c83a.png" width="300"></td>
-    <td><img src="https://user-images.githubusercontent.com/58900339/150642556-c86237f5-d367-4c36-85ba-0708f16bb023.png" width="300"></td>
   </tr>
 </table>
 
