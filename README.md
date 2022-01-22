@@ -33,15 +33,23 @@ This is the Splash image, Signup page where the doctors can login with their cre
   </tr>
 </table>
 
+This is the image for Doctor dashboard where the doctor can view the appointments, provide prescription and comments.
+<table>
+  <tr>
+    <td>Patient Dashboard</td>
+    <td>Patient symptoms page</td>
+    <td>Book slot</td>
+    <td>View prescription</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/66821281/128492786-7455349f-079c-4266-bd13-ecd3a91cdb43.png" width="300"></td>     
+    <td><img src="https://user-images.githubusercontent.com/58900339/150642926-74b535a8-5787-4a37-be81-e1e9a9ce5b93.png" width="300"></td>
+    <td><img src="https://user-images.githubusercontent.com/58900339/150642946-0c658171-6f38-42bf-b80e-c2614f196d7f.png" width="300"></td>
+    <td><img src="https://user-images.githubusercontent.com/58900339/150642982-e5d9165d-c73d-472d-9e42-537e9e9c2aef.png" width="300"></td>
+  </tr>
+</table>
 
 
 
-
-
-
-
-This is the image for Doctor dashboard where the doctor can create slots, view the patient details, view patient symptoms, provide prescription and comments.
-
-<img src="https://user-images.githubusercontent.com/66821281/128492786-7455349f-079c-4266-bd13-ecd3a91cdb43.png" width="300">
 
 This is the image for Patient Dashboard where the patients can view the slots available and book an appointment, view the prescriptions and comments.
